@@ -1,0 +1,21 @@
+.middle {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    margin-left: 70px;
+    margin-right: 70px;
+    align-items: baseline;
+}
+
+.middle div {
+    height: 100px;
+    width: 280px;
+    color: white;
+    border-radius: 8px;
+    font-family: DM Sans;
+    font-size: 15px;
+    padding: 15px;
+    /* font-weight: 36px; */
+}
+
